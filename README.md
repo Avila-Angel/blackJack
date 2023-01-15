@@ -4,4 +4,4 @@
 
 A simple Blackjack game 
 
-<img src="images/blackJack sc.png>
+<img src="images/blackJack sc.png">
